@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<code>
+```javascript
     // https://iHabboush.com/api/v1/about_me
     {
         "data": [
@@ -19,4 +19,4 @@
         "status_code": 200,
         "message": null
     }
-</code>
+```
