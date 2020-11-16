@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-```json
+```js
     // https://iHabboush.com/api/v1/about_me
     {
         "data": [
