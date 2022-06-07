@@ -1,4 +1,5 @@
-### Hi there    [<img src="[[image.png](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)" width="250"/>](giphy.gif)   
+### Hi there [<img src="https://media1.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?cid=790b7611b2d5893c0efd41a47f8e907c205217071ca3547f&rid=giphy.gif&ct=s" width="25"/>](image.png)
+
 
 ```js
     // https://iHabboush.com/api/v1/about_me
